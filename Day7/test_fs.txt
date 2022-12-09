@@ -13,9 +13,6 @@ dir e
 $ cd e
 $ ls
 584 i
-$ cd f
-$ ls
-200 i
 $ cd ..
 $ cd ..
 $ cd d

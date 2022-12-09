@@ -1,0 +1,31 @@
+$ cd hnttb
+$ ls
+dir gbfvsg
+dir jngrjqm
+dir slwhsqw
+$ cd gbfvsg
+$ ls
+84991 rjclmm.wcp
+55681 slwhsqw.gtl
+219041 vtvlz.rws
+2947 zmllsrzc.lzr
+$ cd ..
+$ cd jngrjqm
+$ ls
+dir bqpslnv
+125321 fbfmm
+222370 gjpt
+$ cd bqpslnv
+$ ls
+47973 rhzrhrh.mdh
+$ cd ..
+$ cd ..
+$ cd slwhsqw
+$ ls
+126807 hwp
+169701 sjgzj
+dir tgpnwrn
+286591 wnfjnp.lst
+172105 zbrwg.ljs
+111461 zmllsrzc.vmj
+$ cd tgpnwrn
